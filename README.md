@@ -1,4 +1,4 @@
-![Wave Animation](https://waveify.onrender.com/api/wave?color=%23007CF0&height=150&speed=4&width=1200&amplitude=20&frequency=2&waveType=default)
+![Terminal Demo](https://waveify.onrender.com/api/terminal?commands=npm+install%2Cnpm+run+dev%2Cecho+%22Hello+World%22&theme=modern&speed=50&cursor=true&prompt=%24+&width=800&height=400&fontSize=14&showHeader=true&title=Terminal&githubMode=false&commandType=auto)
 
 <!--
 **Jznix/Jznix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
