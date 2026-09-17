@@ -2,20 +2,6 @@
   <img src="https://waveify.onrender.com/api/terminal?commands=git+clone+https%3A%2F%2Fgithub.com%2Fuser%2Fjznix.git%2Ccd+jznix%2Cnpm+install%2C%E2%9C%93+Repository+cloned+and+setup+complete&theme=modern&speed=50&cursor=true&prompt=%24+&width=800&height=400&fontSize=14&showHeader=true&title=Terminal&githubMode=false&commandType=auto" alt="Terminal Demo" />
 </p>
 
-<!--
-**Jznix/Jznix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 ## About Me
 
 - 🎓 Apprentice in Application Development
@@ -29,4 +15,5 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
