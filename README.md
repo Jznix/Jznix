@@ -5,7 +5,6 @@
 ## About Me
 
 - 🎓 Apprentice in Application Development
-- 💻 Languages & Frameworks I work with: **Python**, **TypeScript**, **C#**, **Java**, **FastAPI**
 - 🔭 Currently building projects to sharpen my skills
 - 🌱 Always open to learn something new
 
